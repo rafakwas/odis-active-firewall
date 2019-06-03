@@ -4,7 +4,7 @@
 Implementacja aktywnego firewalla pozostawia użytkownika z prostym skryptem
 uruchomieniowym.
 
-W ramach projektu dostarczamy gotowego skryptu ​ active_firewall.sh,​ który nie
+W ramach projektu dostarczamy gotowego skryptu ​ afirewall.sh,​ który nie
 wymaga dodatkowych czynności użytkownika. Wymagane jest uruchomienie skryptu z
 prawami administratora.
 
